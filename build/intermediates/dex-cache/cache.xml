@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yinlin/Desktop/s15/ds/carpooling/Android-Maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/yinlin/Desktop/s15/ds/carpooling/Android-Maps/app/build/intermediates/pre-dexed/debug/classes-30cf094f296e08fe82578b240cca8b5d3013931c.jar" />
+    </item>
+    <item
+        jar="/Users/yinlin/Desktop/s15/ds/carpooling/Android-Maps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/yinlin/Desktop/s15/ds/carpooling/Android-Maps/app/build/intermediates/pre-dexed/debug/classes-7dd59f5dd813318fdb9120766e723ae5101512d5.jar" />
+    </item>
+    <item
+        jar="/Users/yinlin/Desktop/s15/ds/carpooling/Android-Maps/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/yinlin/Desktop/s15/ds/carpooling/Android-Maps/app/build/intermediates/pre-dexed/debug/classes-3e69ed36b8aed83dd469ffb46220924d960113b1.jar" />
+    </item>
+    <item
+        jar="/Users/yinlin/Desktop/s15/ds/carpooling/Android-Maps/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/yinlin/Desktop/s15/ds/carpooling/Android-Maps/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-42af9d0cbfd85e278002e322815b20974b374b12.jar" />
+    </item>
+    <item
+        jar="/Users/yinlin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/yinlin/Desktop/s15/ds/carpooling/Android-Maps/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-0bdb5a9d09e369e338e333d0f3e25e1c2d44cca3.jar" />
+    </item>
+
+</items>
